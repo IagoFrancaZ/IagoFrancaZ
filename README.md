@@ -15,4 +15,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 <br/>
-Sorte é o que acontece quando a preparação encontra a oportunidade.
+"Sorte é o que acontece quando a preparação encontra a oportunidade."
