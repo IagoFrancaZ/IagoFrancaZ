@@ -25,7 +25,7 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-<br/><br/>
+<br/>
 
 ### Projetos Destacados
 - 🛠️ [Projeto 1](https://github.com/IagoFrancaZ/projeto1): Descrição em breve.
@@ -36,5 +36,5 @@
 - 📧 Email: [iagofranca150@gmail.com](mailto:iagofranca150@gmail.com)
 - 💼 LinkedIn: [Iago França](https://linkedin.com/in/iagofranca)
 
-### Frase Motivacional
+
 "Sorte é o que acontece quando a preparação encontra a oportunidade." – Sêneca
