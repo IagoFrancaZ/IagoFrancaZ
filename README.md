@@ -7,7 +7,7 @@
 - 🚀 Atualmente focado em desenvolvimento Full Stack e segurança cibernética.
 - 💻 Trabalhando com PHP, Laravel, Node.js, Python, bancos de dados relacionais e muitas outras tecnologias, ferramentas e outros.
 - 📚 Sempre aprendendo e buscando melhorar minhas habilidades.
-
+<!--
 ### Estatísticas do GitHub
 ![Iago GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoFrancaZ&show_icons=true&theme=dracula&hide=contribs) <!-- Esconde contribuições -->
 
