@@ -89,7 +89,12 @@ Desenvolvimento de uma plataforma completa de monetização digital utilizando R
         <sub>Robert C. Martin</sub>
       </td>
       <td align="center">
-        <img src="https://m.media-amazon.com/images/I/51a1AxEYKbL._SX357_BO1,204,203,200_.jpg" width="150" alt="Entendendo Algoritmos"/><br />
+        <img src="https://m.media-amazon.com/images/I/91lBONZ4tAL._AC_UF1000,1000_QL80_.jpg" width="150" alt="Entendendo Algoritmos"/><br />
+        <b>O Codificador Limpo</b><br />
+        <sub>Bob Martin</sub>
+      </td>
+      <td align="center">
+        <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL.jpg"/><br />
         <b>Entendendo Algoritmos</b><br />
         <sub>Aditya Y. Bhargava</sub>
       </td>
