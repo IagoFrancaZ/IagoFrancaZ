@@ -81,25 +81,34 @@ Desenvolvimento de uma plataforma completa de monetização digital utilizando R
 ## 📚 Leitura Recomendada
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://m.media-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg" width="150" alt="Código Limpo"/><br />
-        <b>Código Limpo</b><br />
-        <sub>Robert C. Martin</sub>
-      </td>
-      <td align="center">
-        <img src="https://m.media-amazon.com/images/I/91lBONZ4tAL._AC_UF1000,1000_QL80_.jpg" width="150" alt="Entendendo Algoritmos"/><br />
-        <b>O Codificador Limpo</b><br />
-        <sub>Bob Martin</sub>
-      </td>
-      <td align="center">
-        <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL.jpg"/><br />
-        <b>Entendendo Algoritmos</b><br />
-        <sub>Aditya Y. Bhargava</sub>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <div style="width: 150px; height: 200px; overflow: hidden;">
+        <img src="https://m.media-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg" 
+             width="150" height="200" style="object-fit: cover;" alt="Código Limpo"/>
+      </div>
+      <b>Código Limpo</b><br />
+      <sub>Robert C. Martin</sub>
+    </td>
+    <td align="center">
+      <div style="width: 150px; height: 200px; overflow: hidden;">
+        <img src="https://m.media-amazon.com/images/I/91lBONZ4tAL._AC_UF1000,1000_QL80_.jpg" 
+             width="150" height="200" style="object-fit: cover;" alt="O Codificador Limpo"/>
+      </div>
+      <b>O Codificador Limpo</b><br />
+      <sub>Bob Martin</sub>
+    </td>
+    <td align="center">
+      <div style="width: 150px; height: 200px; overflow: hidden;">
+        <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL.jpg" 
+             width="150" height="200" style="object-fit: cover;" alt="Entendendo Algoritmos"/>
+      </div>
+      <b>Entendendo Algoritmos</b><br />
+      <sub>Aditya Y. Bhargava</sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 📊 Estatísticas
