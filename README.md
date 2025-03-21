@@ -30,7 +30,7 @@
 ### Projetos Destacados
 - 🛠️ [Projeto 1](https://github.com/IagoFrancaZ/projeto1): Descrição em breve.
 - 🔐 [Projeto 2](https://github.com/IagoFrancaZ/projeto2): Descrição em breve.
-- 🚀 [Projeto 3](https://github.com/IagoFrancaZ/projeto3): Descrição em breve.
+- 🚀 [Projeto 3](https://github.com/IagoFrancaZ/money-system): Desenvolvimento de uma plataforma completa de monetização digital utilizando React e Material-UI. O sistema oferece funcionalidades de e-commerce, programa de afiliados e assinaturas, com dashboard administrativo para análise de métricas. Implementado com foco em segurança, performance e experiência do usuário, incluindo autenticação robusta, interface responsiva e relatórios avançados de vendas.
 
 ### Contato
 - 📧 Email: [iagofranca150@gmail.com](mailto:iagofranca150@gmail.com)
