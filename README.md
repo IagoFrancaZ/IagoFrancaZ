@@ -110,12 +110,8 @@ Desenvolvimento de uma plataforma completa de monetização digital utilizando R
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IagoFrancaZ&show_icons=true&theme=github_dark&hide=contribs&border_color=2E7D32&icon_color=2E7D32&title_color=2E7D32&count_private=true" width="400" />
-  
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IagoFrancaZ&theme=github-dark&border=2E7D32" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IagoFrancaZ&show_icons=true&theme=github_dark&border_color=2E7D32&icon_color=2E7D32&title_color=2E7D32&count_private=true&include_all_commits=true&show_owner=true" width="400" />
 
-  <!-- Troféus -->
   <img src="https://github-profile-trophy.vercel.app/?username=IagoFrancaZ&theme=darkhub&column=4&margin-w=15&margin-h=15" width="400" />
 </div>
 
