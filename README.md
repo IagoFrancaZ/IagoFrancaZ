@@ -110,10 +110,8 @@ Desenvolvimento de uma plataforma completa de monetização digital utilizando R
 ## 📊 Estatísticas
 
 <div align="center">
-  <!-- Card de estatísticas -->
   <img src="https://git-hub-stats-token.vercel.app/api?type=stats" alt="GitHub Stats" width="400" />
   
-  <!-- Card de conquistas -->
   <img src="https://git-hub-stats-token.vercel.app/api" alt="GitHub Achievements" width="800" />
 </div>
 
