@@ -109,8 +109,6 @@ Desenvolvimento de uma plataforma completa de monetização digital utilizando R
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <div align="center">
   <img src="https://git-hub-stats-token.vercel.app/api" alt="Estatísticas do GitHub incluindo repositórios privados" width="400" />
   
