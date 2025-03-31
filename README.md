@@ -110,8 +110,7 @@ Desenvolvimento de uma plataforma completa de monetização digital utilizando R
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://git-hub-stats-token.vercel.app/api?type=stats" alt="GitHub Stats" />
-  <img src="https://git-hub-stats-token.vercel.app/api" alt="GitHub Achievements" />
+  <img src="https://git-hub-stats-token.vercel.app/api?username=IagoFrancaZ" alt="GitHub Stats" />
 </div>
 
 ---
